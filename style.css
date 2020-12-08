@@ -262,7 +262,7 @@ h3 {
   background-size: contain;
   position: absolute;
   z-index: 2;
-  margin-top: 32.3%;
+  margin-top: 31%;
   margin-left: -4.35%;
   font-size: 1.3em;
   color: #e13e17;
@@ -311,7 +311,7 @@ section .fwh-becode {
 }
 
 h5 {
-  font-size: 8em;
+  font-size: 8.5em;
   color: black; 
   display: flex;
   order: 1;
@@ -424,18 +424,18 @@ h5 {
   background-color: black;
   border-radius: 50%;
   margin-left:-14%;
-  margin-top: 188%;
+  margin-top: 198%;
   z-index:0;
 }
 
 .circlecover1 {
   position: absolute;
   display: flex;
-  height: 58vh;
-  width: 58vh;
+  height: 60vh;
+  width: 60vh;
   background-color: #e6e6e6;
   margin-left:-14%;
-  margin-top: 188%;
+  margin-top: 198%;
   z-index:1;
   animation-name: cover1;
   animation-duration: 5s;
@@ -449,7 +449,7 @@ h5 {
     left:0vh;
   }
   100% {
-    left:58vh;
+    left:64vh;
 }
 }
 
@@ -460,7 +460,7 @@ h5 {
   width: 93vh;
   background-color: black;
   margin-left: 54.7%;
-  margin-top: 107%;
+  margin-top: 109%;
   z-index:0;
   animation: spin 10s linear infinite;
   animation-play-state: paused; 
@@ -484,7 +484,7 @@ h5 {
   width: 113vh;
   background-color: black;
   margin-left: 45%;
-  margin-top: 105%;
+  margin-top: 107%;
   z-index:0;
   animation: spin2 10s linear infinite;
   animation-play-state: paused; 
@@ -502,7 +502,7 @@ h5 {
 
 .play {
   margin-left: 90%;
-  margin-top: 105.5%;
+  margin-top: 107.5%;
   position: absolute;
   display: flex;
 }  
