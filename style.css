@@ -460,7 +460,7 @@ h5 {
   width: 93vh;
   background-color: black;
   margin-left: 45.5%;
-  margin-top: 169%;
+  margin-top: 170%;
   z-index:0;
   animation: spin 10s linear infinite;
   animation-play-state: paused; 
@@ -484,7 +484,7 @@ h5 {
   width: 113vh;
   background-color: black;
   margin-left: 34%;
-  margin-top: 167%;
+  margin-top: 168%;
   z-index:0;
   animation: spin2 10s linear infinite;
   animation-play-state: paused; 
@@ -502,7 +502,7 @@ h5 {
 
 .play {
   margin-left: 88%;
-  margin-top: 167.6%;
+  margin-top: 168.6%;
   position: absolute;
   display: flex;
 }  
