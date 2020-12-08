@@ -473,7 +473,7 @@ h5 {
 
 @keyframes spin {
   100% {  
-    margin-left: -48%;
+    margin-left: -55%;
 }
 }
 
@@ -496,7 +496,7 @@ h5 {
 }
 
 @keyframes spin2 {
-  100% {  margin-left: -58%;
+  100% {  margin-left: -65%;
 }
 }
 
