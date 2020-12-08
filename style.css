@@ -262,7 +262,7 @@ h3 {
   background-size: contain;
   position: absolute;
   z-index: 2;
-  margin-top: 33%;
+  margin-top: 32%;
   margin-left: -4.35%;
   font-size: 1.3em;
   color: #e13e17;
@@ -347,7 +347,7 @@ h5 {
   pading-left: -2%;
   padding-bottom: 1%;
   z-index: 2;
-  margin-left: 4%;
+  margin-left: 10%;
   margin-top: 1.4%;
 }
 
@@ -460,7 +460,7 @@ h5 {
   width: 93vh;
   background-color: black;
   margin-left: 45.5%;
-  margin-top: 170%;
+  margin-top: 172%;
   z-index:0;
   animation: spin 10s linear infinite;
   animation-play-state: paused; 
@@ -484,7 +484,7 @@ h5 {
   width: 113vh;
   background-color: black;
   margin-left: 34%;
-  margin-top: 168%;
+  margin-top: 170%;
   z-index:0;
   animation: spin2 10s linear infinite;
   animation-play-state: paused; 
@@ -501,8 +501,8 @@ h5 {
 }
 
 .play {
-  margin-left: 88%;
-  margin-top: 168.6%;
+  margin-left: 89%;
+  margin-top: 170.6%;
   position: absolute;
   display: flex;
 }  
