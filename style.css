@@ -262,7 +262,7 @@ h3 {
   background-size: contain;
   position: absolute;
   z-index: 2;
-  margin-top: 31%;
+  margin-top: 35%;
   margin-left: -4.35%;
   font-size: 1.3em;
   color: #e13e17;
@@ -276,10 +276,10 @@ h3 {
   flex-basis: center;
   align-self: center;
   order: 0;
-  width: 30%;
+  width: 45%;
   height: 15%;
   padding-top: 3.8%;
-  padding-right: 10%;
+  padding-left: 5%;
   background-size: contain;
   position: absolute;
   z-index: 2;
@@ -311,7 +311,7 @@ section .fwh-becode {
 }
 
 h5 {
-  font-size: 8.5em;
+  font-size: 8.7em;
   color: black; 
   display: flex;
   order: 1;
@@ -460,7 +460,7 @@ h5 {
   width: 93vh;
   background-color: black;
   margin-left: 54.7%;
-  margin-top: 109%;
+  margin-top: 169%;
   z-index:0;
   animation: spin 10s linear infinite;
   animation-play-state: paused; 
@@ -484,7 +484,7 @@ h5 {
   width: 113vh;
   background-color: black;
   margin-left: 45%;
-  margin-top: 107%;
+  margin-top: 167%;
   z-index:0;
   animation: spin2 10s linear infinite;
   animation-play-state: paused; 
@@ -502,7 +502,8 @@ h5 {
 
 .play {
   margin-left: 90%;
-  margin-top: 107.5%;
+  margin-top: 167.6%;
   position: absolute;
   display: flex;
 }  
+
